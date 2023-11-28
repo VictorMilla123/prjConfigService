@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/VictorMilla123/config-data
           #searchPaths: config-data
           username: VictorMilla123
-          password: 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
+          password: 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
           default-label: master
   security:
     user:
